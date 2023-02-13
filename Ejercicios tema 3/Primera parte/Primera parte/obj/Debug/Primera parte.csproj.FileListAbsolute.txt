@@ -1,0 +1,8 @@
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\bin\Debug\Primera parte.exe.config
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\bin\Debug\Primera parte.exe
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\bin\Debug\Primera parte.pdb
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\obj\Debug\Primera parte.csproj.AssemblyReference.cache
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\obj\Debug\Primera parte.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\obj\Debug\Primera parte.csproj.CoreCompileInputs.cache
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\obj\Debug\Primera parte.exe
+C:\Users\Zero Ryper\source\repos\Ejercicios tema 3\Primera parte\Primera parte\obj\Debug\Primera parte.pdb

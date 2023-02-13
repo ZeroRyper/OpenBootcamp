@@ -1,0 +1,8 @@
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\bin\Debug\Segunda parte.exe.config
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\bin\Debug\Segunda parte.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\bin\Debug\Segunda parte.pdb
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\obj\Debug\Segunda parte.csproj.AssemblyReference.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\obj\Debug\Segunda parte.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\obj\Debug\Segunda parte.csproj.CoreCompileInputs.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\obj\Debug\Segunda parte.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Ejercicios tema 3\Segunda parte\Segunda parte\obj\Debug\Segunda parte.pdb
