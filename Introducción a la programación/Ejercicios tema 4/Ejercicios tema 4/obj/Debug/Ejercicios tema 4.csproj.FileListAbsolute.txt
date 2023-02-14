@@ -1,0 +1,8 @@
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\Ejercicios tema 4.exe.config
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\Ejercicios tema 4.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\Ejercicios tema 4.pdb
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\Ejercicios tema 4.csproj.AssemblyReference.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\Ejercicios tema 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\Ejercicios tema 4.csproj.CoreCompileInputs.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\Ejercicios tema 4.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\Introducción a la programación\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\Ejercicios tema 4.pdb
