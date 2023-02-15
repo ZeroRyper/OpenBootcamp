@@ -12,16 +12,16 @@ namespace Ejercicio_tema_9
         {
             Cliente cliente = new Cliente();
             cliente.edad = 22;
-            Console.WriteLine("Edad "+cliente.edad);
             cliente.nombre="Erick";
-            Console.WriteLine("Nombre "+cliente.nombre);
             cliente.numero = 1234567891;
-            Console.WriteLine("Numero "+cliente.numero);
             cliente.setcredito(50);
-            Console.WriteLine("Credito "+cliente.getcredito());
+            Console.WriteLine("Edad " + cliente.edad+ " Nombre " + cliente.nombre + " Numero " + cliente.numero +" Credito " +cliente.getcredito());
             Trabajador trabajador= new Trabajador();
+            trabajador.edad = 22;
+            trabajador.nombre = "Erick";
+            trabajador.numero = 1234567891;
             trabajador.setsalario(500);
-            Console.WriteLine("Salario "+trabajador.getsalario());
+            Console.WriteLine("Edad " + trabajador.edad + " Nombre " + trabajador.nombre + " Numero " + trabajador.numero + " Salario " +trabajador.getsalario());
         }
     }
     class Persona
