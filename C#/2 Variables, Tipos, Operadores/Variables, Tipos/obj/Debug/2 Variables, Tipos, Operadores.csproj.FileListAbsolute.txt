@@ -1,0 +1,8 @@
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\bin\Debug\2 Variables, Tipos, Operadores.exe.config
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\bin\Debug\2 Variables, Tipos, Operadores.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\bin\Debug\2 Variables, Tipos, Operadores.pdb
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\obj\Debug\2 Variables, Tipos, Operadores.csproj.AssemblyReference.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\obj\Debug\2 Variables, Tipos, Operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\obj\Debug\2 Variables, Tipos, Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\obj\Debug\2 Variables, Tipos, Operadores.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\2 Variables, Tipos, Operadores\2 Variables, Tipos, Operadores\obj\Debug\2 Variables, Tipos, Operadores.pdb
