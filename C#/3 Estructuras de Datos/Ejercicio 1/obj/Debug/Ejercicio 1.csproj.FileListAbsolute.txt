@@ -1,0 +1,8 @@
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
