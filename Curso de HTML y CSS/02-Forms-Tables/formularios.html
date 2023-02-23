@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formularios</title>
+  </head>
+  <body>
+    <form action="resultado.html" method="GET"><!--Cuando enviamos el formulario nos redirige a otra pagina y el metodo get optiene los valores de los inputs-->
+      <div>
+        <label for="nombreusuario">Nombre de usuario</label>
+        <input type="text" name="nombreusuario" id="nombreusuario" required/><!--De (type="text") por que solo texto y (required) para que el texto sea obligatorio-->
+      </div>
+      <div>
+        <label for="password">Contrasena</label>
+        <input type="password" name="password" id="password" required/>
+      </div>
+      <div>
+        <label for="edad">Cual es tu edad?</label>
+        <input type="number" name="edad" id="edad" min="0" max="200" step="5" required/><!--min para que se el valor minimo que se pueda anotar | max el valor maximo que se puede anotar | step son los paso que de los que va ir tomando 5-10-15 -->
+      </div>
+      <div>
+        <label for="email">Cual es tu Email?</label>
+        <input type="email" name="email" id="email" required/>//<!--Typo email-->
+      </div>
+      <div>
+        <label for="nacimiento">Cual es tu fecha?</label>
+        <input type="date" name="nacimiento" id="nacimiento" required/><!--De typo date-->
+      </div>
+      <div>
+        <label for="comentarios">Comentarios</label>
+        <textarea name="comentarios" id="comentarios"></textarea><!--textarea recudro grande para anotar comentarios etc..-->
+      </div>
+      <br>
+      <button type="submit">Enviar</button><!--Boton submit para enviar cosas-->
+      <button type="reset">Reset</button><!--Para recetear los inputs-->
+    </form>
+  </body>
+</html>
