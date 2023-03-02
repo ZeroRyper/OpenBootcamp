@@ -1,0 +1,44 @@
+/*Estilos para colores*/
+.colores{
+    color: blue;
+}
+.color-hexadecimal{
+    color: #922929;
+}
+
+.color-rgb{
+    color:rgb(100, 0, 200)
+}
+.color-rgba{
+    color:rgba(10, 10, 10, 1)
+}
+/*Fondos*/
+.fondo{
+    /*background-color: cornflowerblue;*/
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d9/Backrooms_model.jpg");
+    background-position:right bottom ;
+}
+.fondo-interno{
+    /*background-color: cornflowerblue;*/
+    background-image: url("./imagenes/img.jpg");
+    background-position:left bottom ;
+}
+/* Tamaños */
+.ancho{
+    background-color: yellow;
+    width: 100px;
+}
+.alto{
+    background-color: aquamarine;
+    height: 200px;
+}
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150,150,150);
+    border-width: 1px;
+    /*border-top: none;*/
+    /*padding:10px 20px 30px 40px;*/
+    /*margin:10px 20px 30px 40px;*/
+    padding:10px 20px;
+    margin:10px 20px ;
+}
