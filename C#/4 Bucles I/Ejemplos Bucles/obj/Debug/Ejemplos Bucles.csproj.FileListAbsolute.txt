@@ -1,0 +1,8 @@
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\bin\Debug\Ejemplos Bucles.exe.config
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\bin\Debug\Ejemplos Bucles.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\bin\Debug\Ejemplos Bucles.pdb
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\obj\Debug\Ejemplos Bucles.csproj.AssemblyReference.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\obj\Debug\Ejemplos Bucles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\obj\Debug\Ejemplos Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\obj\Debug\Ejemplos Bucles.exe
+C:\Users\Zero Ryper\source\repos\OpenBootcamp\C#\3 Estructuras de Datos\Ejemplos Bucles\obj\Debug\Ejemplos Bucles.pdb
