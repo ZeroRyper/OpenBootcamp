@@ -1,0 +1,43 @@
+.padre{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+.hijo{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    /* transition: transform 1s ease-in-out 1s; */
+    animation: traslacion 2s infinite forwards ;
+    /* Alterna el movimiento de la caja (alternate) */
+
+}
+.padre:hover .hijo{
+    /* transform: translate(100%);
+    background-color: blueviolet; */
+   animation-play-state: paused; /* Estado de la animacion */
+
+}
+@keyframes traslacion{
+    0%{
+        background-color: brown;
+        transform: translateX(0%);
+    }
+    25%{
+        background-color: rgb(0, 255, 128);
+        transform: translateX(100%);
+    }
+    50%{
+        background-color: rgb(6, 164, 255);
+        transform: translateX(100%) translateY(100%);
+    }
+    75%{
+        background-color: rgb(212, 0, 255);
+        transform:translateY(100%);
+    }
+    100%{
+        background-color: red;
+        transform: translateX(0%);
+
+    }
+}
