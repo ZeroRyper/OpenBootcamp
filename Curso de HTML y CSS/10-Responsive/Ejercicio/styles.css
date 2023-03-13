@@ -1,20 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .container{
     display: flex;
+    min-height: 100vh;
+    min-width: 100vw;
 
 }
 .sidebar{
     display: flex;
     flex-direction: column;
-    flex-grow: 1;
     background-color: green;
-    align-items: center;
-
 }
 .main-section{
     background-color: aqua;
     display: flex;
     justify-content: center;
-    flex-grow: 4;
+    flex-grow: 1;
+
 }
 @media (max-width:640px) {
     .container{
@@ -27,7 +31,6 @@
         flex-direction: row;
         align-items: flex-end;
         justify-content: center;
-        flex-grow: 1;
         background-color: green;
         gap: 2rem;
     
