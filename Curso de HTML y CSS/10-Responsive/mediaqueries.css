@@ -1,0 +1,37 @@
+h1{
+    color: red;
+    font-size: 4rem;
+}
+p{
+    color: black;
+    font-size: 2rem;
+
+}
+/* @meadia all and (max-width:576px) */
+/* @media screen and (max-width:576px) {
+    h1{
+        color: blue;
+    }
+} */
+@media(min-width:576px) {
+    h1{
+        color: green;
+    }
+}
+@media (min-width:995px) {
+        h1{
+            color:blue;
+        }    
+}
+/* Se puede n concatenar condiciones para que cambie segun los valores establecidos (,)=(or) */
+@media (min-height:300px),(min-width:1100px) {
+    h1{
+        color:darksalmon;
+    }    
+}
+/* Cuando la orientacion del celular sea horizontal y la altura minima a la que se le aplique sea 400px */
+@media (orientation:landscape) and (min-height:400px){
+    p{
+        color: brown;
+    }
+}

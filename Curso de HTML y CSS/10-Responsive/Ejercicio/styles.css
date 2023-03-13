@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background-color: green;
+    align-items: center;
+
+}
+.main-section{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    flex-grow: 4;
+}
+@media (max-width:640px) {
+    .container{
+        display: flex;
+        flex-direction: column-reverse;
+
+    }
+    .sidebar{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+        justify-content: center;
+        flex-grow: 1;
+        background-color: green;
+        gap: 2rem;
+    
+    }
+    .main-section{
+        display: flex;
+        flex-direction: row;
+        background-color: aqua;
+        justify-content: center;
+
+    }
+    
+}
