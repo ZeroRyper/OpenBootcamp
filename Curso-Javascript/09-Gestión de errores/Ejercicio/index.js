@@ -1,4 +1,16 @@
-const funcion_personal=x=>{
+const winston = require("winston");
+
+const logger = winston.createLogger({
+  level: "error",
+  format: winston.format.json(),
+  defaultMeta: { service: "user-service" },
+  transports: [
+    new winston.transports.File({ filename: "error.log", level: "error" }),
+  ],
+});
+
+
+funcion_personal=x=>{
     if(x==1){
         console.log("x es igual a 1")
         return
@@ -14,7 +26,7 @@ try{
 }
 catch(e){
     // En caso de fallar. quiero que ejecutes
-    console.error("ERROR!")
+    logger.error("ERROR!")
 }
 
 
