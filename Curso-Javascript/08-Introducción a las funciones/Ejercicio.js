@@ -1,6 +1,15 @@
 ///- Una función sin parámetros que devuelva siempre "true"
-const array2=((x)=>x)
-console.log(array2(true))
+function devuelveTrue() {
+    return true
+}
+
+
+
+
+async function damePromesa() {
+    return setTimeout(() => console.log("Hola soy una promesa"), 5000)
+}
+
 ////- Una función generadora de índices pares automáticos
 function* generaId(){
     let id=0;
